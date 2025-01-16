@@ -8,7 +8,11 @@
 }
 
 body {
-    background-color: #081111;
+    background-image: radial-gradient(
+        circle farthest-corner at 96.1% 7.2%,
+        rgba(9, 178, 62, 1) 0%,
+        rgba(19, 19, 19, 1) 100.2%
+    );
 }
 
 .my-5 {
