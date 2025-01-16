@@ -8,13 +8,13 @@
 }
 
 body {
-    background-color: ghostwhite;
-}
-
-.navbar {
-    box-shadow: rgba(149, 157, 165, 0.5) 0px 8px 24px;
+    background-color: #081111;
 }
 
 .my-5 {
     margin: 5rem 0;
+}
+
+.card {
+    background-color: #21272a;
 }
